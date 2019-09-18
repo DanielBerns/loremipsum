@@ -119,7 +119,7 @@ def get_word(length=None):
 
 
 def get_words(amount, length=None):
-    """Creates a generatator of the specified amount of words.
+    """Creates a generator of the specified amount of words.
 
     This function accepts the same arguments and returns the same as
     :py:meth:`Generator.generate_words`.
